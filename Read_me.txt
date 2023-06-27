@@ -1,2 +1,2 @@
-This is a Python project to analyse real world scenarios and generate valuable insights
+This is a Python project to analyse real world climate change data and generate valuable insights
 by visualising information.
